@@ -133,6 +133,7 @@ Isolated workflows
 Unified ecosystem
 Limited accessibility
 Available anywhere
+
 📈 Future Roadmap
 Phase 1 – Spacecraft Builder ✅
 Component library
@@ -154,6 +155,7 @@ Phase 5 – VR Space Exploration
 WebXR integration
 Virtual cockpit
 Spacewalk simulation
+
 🚀 Demo Workflow
 Select spacecraft components
 Build spacecraft architecture
@@ -161,11 +163,13 @@ Configure mission objectives
 Simulate launch and orbital insertion
 Analyze mission telemetry
 Optimize and iterate designs
+
 🎓 Educational Impact
 COSEMARA aims to:
 Democratize aerospace education
 Enable experiential STEM learning
 Increase student engagement in space science
 Bridge the gap between theory and real-world aerospace engineering
+
 🌟 Vision
 To become the world's most accessible and widely used aerospace learning platform, empowering anyone with a browser to design, simulate, and explore the future of space exploration. 
