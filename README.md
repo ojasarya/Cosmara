@@ -1,9 +1,13 @@
 🚀 COSEMARA
+
 "Where Every Mission Touches the Infinite."
 
 COSEMARA is a browser-based aerospace mission design and simulation platform that enables students, educators, aerospace enthusiasts, and researchers to design spacecraft, simulate missions, analyze performance, and learn aerospace engineering through interactive experimentation.
+
 Built for accessibility, COSEMARA eliminates the barriers of expensive software, steep learning curves, and institutional restrictions by providing a free, intuitive, and immersive aerospace learning environment directly in the browser.
+
 🌍 Problem Statement
+
 Aerospace education remains inaccessible for most learners due to:
 High licensing costs of professional aerospace tools
 Complex software requiring years of training
@@ -11,6 +15,7 @@ Limited access to practical mission design experiences
 Dependence on installations and institutional infrastructure
 As a result, millions of students learn aerospace theory without ever designing or simulating a real mission.
 💡 Solution
+
 COSEMARA provides an end-to-end digital aerospace laboratory where users can:
 ✅ Design spacecraft using a drag-and-drop builder
 ✅ Simulate complete space missions
@@ -19,6 +24,7 @@ COSEMARA provides an end-to-end digital aerospace laboratory where users can:
 ✅ Analyze mission performance metrics
 ✅ Learn through gamified aerospace education
 ✨ Key Features
+
 🛰️ Spacecraft Builder
 Drag-and-drop spacecraft assembly
 Modular aerospace components
