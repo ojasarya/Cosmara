@@ -14,6 +14,7 @@ Complex software requiring years of training
 Limited access to practical mission design experiences
 Dependence on installations and institutional infrastructure
 As a result, millions of students learn aerospace theory without ever designing or simulating a real mission.
+
 💡 Solution
 
 COSEMARA provides an end-to-end digital aerospace laboratory where users can:
