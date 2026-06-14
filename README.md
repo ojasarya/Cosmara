@@ -24,6 +24,7 @@ COSEMARA provides an end-to-end digital aerospace laboratory where users can:
 ✅ Test aerospace concepts interactively
 ✅ Analyze mission performance metrics
 ✅ Learn through gamified aerospace education
+
 ✨ Key Features
 
 🛰️ Spacecraft Builder
@@ -61,6 +62,7 @@ Design summaries
 Fuel consumption tracking
 Payload ratio analysis
 Performance metrics visualization
+
 🏗️ System Architecture
 Plain text
 Frontend (React + TypeScript)
@@ -79,6 +81,7 @@ Analytics Layer
             │
             ▼
 Database (Firebase / Supabase)
+
 🛠️ Technology Stack
 Frontend
 React
@@ -104,6 +107,7 @@ Vercel
 AI (Future Roadmap)
 OpenAI API
 TensorFlow.js
+
 🎯 Who Benefits?
 👨‍🎓 Students
 Gain hands-on aerospace experience through real mission simulations.
@@ -115,6 +119,7 @@ Design and test spacecraft concepts without expensive software.
 Rapidly prototype and validate mission concepts.
 🛰️ Space Agencies & Organizations
 Training and onboarding platform for future aerospace talent.
+
 🔥 Why COSEMARA?
 Traditional Tools
 COSEMARA
